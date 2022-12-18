@@ -1,0 +1,103 @@
+html {
+    width: 100%;
+    height: fit-content;
+    background-color: black;
+    font-family: monospace;
+}
+
+a {
+    text-decoration: none;
+}
+
+.info {
+    display: block;
+    background-color: #F4F51E;
+    color: white;
+    padding: 100px 0 50px 0;
+}
+
+.display {
+    background-color: #252223;
+    color: black;
+    padding: 60px 0;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.app-name {
+    letter-spacing: 10px;
+    font-size: 56px;
+    word-wrap: break-word;
+}
+
+.text-black {
+    color: black;
+    font-weight: bolder;
+}
+
+.app-subtitle {
+    margin-top: 5px;
+    font-size: 24px;
+    font-weight: bolder;
+}
+
+.underline {
+    border-bottom: 8px #E63950 solid;
+}
+
+.features {
+    text-align: center;
+    font-size: 32px;
+}
+
+.app-gif {
+    max-width: 90%;
+    height: auto;
+    margin: 50px auto;
+}
+
+.button {
+    display: block;
+    width: fit-content;
+    padding: 20px 35px;
+    text-align: center;
+    background-color: black;
+    font-weight: bolder;
+    font-size: 15px;
+    color: white;
+    border-radius: 10px;
+}
+
+.button:hover {
+    background-color: rgba(33, 33, 33, 0.82)
+}
+
+.button-secondary {
+    display: block;
+    width: fit-content;
+    padding: 20px 35px;
+    text-align: center;
+    background-color: #F4F51E;
+    font-weight: bolder;
+    font-size: 15px;
+    color: black;
+    border-radius: 10px;
+}
+
+.button-secondary:hover {
+    background-color: rgba(244, 245, 30, 0.8);
+}
+
+.download {
+    margin: 50px auto;
+}
+
+.flex-center {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
