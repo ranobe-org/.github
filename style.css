@@ -3,6 +3,7 @@ html {
     height: fit-content;
     background-color: black;
     font-family: monospace;
+    font-size: 100%;
 }
 
 a {
@@ -28,7 +29,7 @@ a {
 
 .app-name {
     letter-spacing: 10px;
-    font-size: 56px;
+    font-size: 3em;
     word-wrap: break-word;
 }
 
@@ -39,17 +40,12 @@ a {
 
 .app-subtitle {
     margin-top: 5px;
-    font-size: 24px;
+    font-size: 1.5em;
     font-weight: bolder;
 }
 
 .underline {
     border-bottom: 8px #E63950 solid;
-}
-
-.features {
-    text-align: center;
-    font-size: 32px;
 }
 
 .app-gif {
@@ -65,7 +61,7 @@ a {
     text-align: center;
     background-color: black;
     font-weight: bolder;
-    font-size: 15px;
+    font-size: 1.2em;
     color: white;
     border-radius: 10px;
 }
@@ -81,7 +77,7 @@ a {
     text-align: center;
     background-color: #F4F51E;
     font-weight: bolder;
-    font-size: 15px;
+    font-size: 1.2em;
     color: black;
     border-radius: 10px;
 }
