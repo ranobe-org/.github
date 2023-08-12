@@ -12,7 +12,7 @@ a {
 
 .info {
     display: block;
-    background-color: #F4F51E;
+    background-color: #fcfc74;
     color: white;
     padding: 100px 0 50px 0;
 }
@@ -38,6 +38,10 @@ a {
     font-weight: bolder;
 }
 
+.text-white {
+    color: white;
+}
+
 .app-subtitle {
     margin-top: 5px;
     font-size: 1.5em;
@@ -57,7 +61,7 @@ a {
 .button {
     display: block;
     width: fit-content;
-    padding: 20px 35px;
+    padding: 10px 15px;
     text-align: center;
     background-color: black;
     font-weight: bolder;
@@ -73,9 +77,9 @@ a {
 .button-secondary {
     display: block;
     width: fit-content;
-    padding: 20px 35px;
+    padding: 10px 15px;
     text-align: center;
-    background-color: #F4F51E;
+    background-color: #fcfc74;
     font-weight: bolder;
     font-size: 1.2em;
     color: black;
@@ -87,7 +91,7 @@ a {
 }
 
 .download {
-    margin: 50px auto 0 auto;
+    margin: 20px auto 0 auto;
 }
 
 .flex-center {
@@ -95,5 +99,15 @@ a {
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
-    gap: 10px;
+    gap: 30px;
+}
+
+.app-icon {
+    width: 200px;
+    height: 200px;
+    border-style: solid;
+    border-color: gray;
+    border-width: 2px;
+    border-radius: 20px;
+    box-shadow: rgba(128, 128, 128, 0.466) 10px 10px 15px;
 }
