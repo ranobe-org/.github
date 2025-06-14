@@ -3,6 +3,11 @@
   <h2><samp>read novels like no other with free access to multiple sources</samp></h2>
   <samp>everyone is welcome to community of readers</samp>
   <br/><br/>
+      <a href="https://play.google.com/store/apps/details?id=org.ranobe.downloader">
+     <img height='50' src="https://github.com/ranobe-org/ranobe/blob/main/assets/google-play.png?raw=true" alt="play store">
+    </a>
+  <br/>
+  <br/>
   <a href="https://github.com/ranobe-org/ranobe/releases/latest" title="Download">
       <img height='25' src="https://img.shields.io/badge/download-2da44e?style=flat&logo=android&logoColor=white" alt="Download" title="Download">
   </a>
@@ -11,9 +16,6 @@
   </a>
   <a href="https://discord.gg/6CQ6u64dca" title="Join Discord">
       <img height='25' src="https://img.shields.io/badge/discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Join Discord" title="Join Discord">
-  </a>
-  <a href="https://t.me/ranobeapp" title="Join Telegram">
-      <img height='25' src="https://img.shields.io/badge/telegram-1A9AD7?style=flat&logo=telegram&logoColor=white" alt="Join Telegram" title="Join Telegram">
   </a>
   <a href="https://github.com/ap-atul" title="Github">
       <img height='25' src="https://img.shields.io/badge/github-ffffff?style=flat&logo=github&logoColor=black" alt="Check Github" title="Check Github">
