@@ -11,7 +11,7 @@
   <a href="https://github.com/ranobe-org/ranobe/releases/latest" title="Download">
       <img height='25' src="https://img.shields.io/badge/download-2da44e?style=flat&logo=android&logoColor=white" alt="Download" title="Download">
   </a>
-  <a href="https://ranobe-org.github.io/.github/" title="Website">
+  <a href="https://ranobe.atulpatare.in" title="Website">
       <img height='25' src="https://img.shields.io/badge/website-F4F51E?style=flat&logo=internet-archive&logoColor=black" alt="Website" title="Website">
   </a>
   <a href="https://discord.gg/6CQ6u64dca" title="Join Discord">
